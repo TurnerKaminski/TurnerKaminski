@@ -1,8 +1,12 @@
 ## Welcome to my GitHub profile!
 
-I am a recent graduate of UCLA with a BS in Electrical Engineering and a tech breadth in Computer Science. I am currently pursuing a role in Embedded Software Engineering.
-
-My pinned repositories are all projects I have worked on and would love for you to take a look!
+- 🎓 I am a recent graduate of UCLA with a BS in Electrical Engineering and a tech breadth in Computer Science.
+  
+- 🔍 I am currently pursuing a role in Embedded Software Engineering.
+  
+- 📜 My pinned repositories are all projects I have worked on and would love for you to take a look!
+  
+- 📫 Please reach out at turnerkam@g.ucla.edu if you would like to contact me.
 
 <!--
 **TurnerKaminski/TurnerKaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
